@@ -11,4 +11,4 @@
 | `test`     | Adding missing tests or correcting existing tests     | `test: add unit tests for user service`         | When you add or modify tests in your codebase.                                 |
 | `chore`    | Changes to the build process or auxiliary tools      | `chore: update dependencies`                     | For routine tasks that don’t fit into other categories, such as maintenance tasks. |
 | `build`    | Changes affecting the build system or external dependencies  | `build: update webpack configuration`            | When you modify the build process or tools used for building the application.   |
-| `ci`       | Changes to CI configuration files and scripts        | `ci: update GitHub Actions workflow`            | For updates related to continuous integration configurations.                   |
+| `ci`       | Changes to CI configuration files and scripts        | `ci: update GitHub Actions workflow`            | For updates related to continuous integration configurations.                  |
